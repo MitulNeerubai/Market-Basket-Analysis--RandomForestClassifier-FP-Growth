@@ -4,7 +4,7 @@
 This project analyzes retail transaction data to identify frequent itemsets and generate association rules. It also uses a Random Forest model to predict high-confidence rules and provides a simple recommendation system.
 
 ## Dataset
-- **File:** Online Retail.csv'
+- **File:** 'Online Retail.csv'
 - Contains retail transactions with fields like 'InvoiceNo', 'StockCode', 'Description', 'Quantity', 'UnitPrice', and 'CustomerID'.
 - The dataset is cleaned by removing missing values and negative quantities or prices.
 
